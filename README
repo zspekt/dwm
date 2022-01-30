@@ -1,11 +1,11 @@
 my build of dwm. it ain't much, but it's honest work.
 patches installed:
 
-|>dwm-fixborders-6.2.diff (sort of fixes transparent borders when using picom et al)
-|>dwm-shif-tools-6.2.diff (jumping through adjacents tags)
-|>dwm-vanitygaps-20190508-6.2.diff (gaps bc they look nice)
-|>dwm-xrdb-6.2.diff (allows dwm to read xresources)
-|>dwm-pertag-20200914-61bb8b2.diff (makes it so layout, nmaster, and other values are specific to each tag)
+>dwm-fixborders-6.2.diff (sort of fixes transparent borders when using picom et al)
+>dwm-shif-tools-6.2.diff (jumping through adjacents tags)
+>dwm-vanitygaps-20190508-6.2.diff (gaps bc they look nice)
+>dwm-xrdb-6.2.diff (allows dwm to read xresources)
+>dwm-pertag-20200914-61bb8b2.diff (makes it so layout, nmaster, and other values are specific to each tag)
 
 __.__.__.__.__.__.__.__.__.__.__.__.__
 
